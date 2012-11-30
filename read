@@ -1,4 +1,5 @@
 Hello I love you !
+<<<<<<< HEAD
 please 
 do 
 some thing
@@ -8,5 +9,7 @@ me
 know
 you
 .
+=======
+>>>>>>> 51adaca1db86720ffa7754973782b699d6a2c773
 This is the middle.
 Hello I hate you!
